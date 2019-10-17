@@ -1,0 +1,43 @@
+.close{
+    background-color: rgb(37, 233, 37);
+    color: indigo;
+}.heading{
+    text-align: center;
+}
+body{
+  background-color:  rgb(243, 26, 160);
+}
+.headborder{
+    border: double indigo;
+    
+}
+.heeb{
+    text-align: center;
+}
+ul{
+    display:flex;
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+.list{
+border: solid rgb(68, 12, 68);
+width: 250px;
+border-radius: 20px;
+margin: 10px;
+}
+h5{
+    background-color: darkturquoise;
+    text-align: center;
+}
+.first{
+border: solid 2px yellow;
+display: flex;
+justify-content: center;
+border-radius: 70px;
+background-color: tomato;
+}
+button{
+    background-color: rgb(230, 29, 186);
+    font-size: 20px;
+}
